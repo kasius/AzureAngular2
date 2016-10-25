@@ -61,6 +61,9 @@
     "karma-jasmine-html-reporter": "^0.2.2",
     "protractor": "^4.0.9",
     "rimraf": "^2.5.4",
+    "gulp":"3.9.1",
+    "gulp-sourcemaps":"2.0.0-alpha",
+    "del": "2.2.0",
 
     "@types/core-js": "^0.9.34",
     "@types/node": "^6.0.45",
